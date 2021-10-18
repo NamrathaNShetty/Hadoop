@@ -1,0 +1,1 @@
+Data is stored in a distributed manner in HDFS. There are two components of HDFS - name node and data node. Hello, How are you. How do you do. What is up. What is happening
